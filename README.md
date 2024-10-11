@@ -31,8 +31,4 @@ This is a web-based application developed using Python and Django. The system ma
    python manage.py runserver
    ```
 
-## Project Screenshots
-(Add screenshots of your project's features and UI here)
 
-## License
-This project is licensed under the MIT License.
